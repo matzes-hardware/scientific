@@ -15,7 +15,7 @@
 
 ### Linux support
 
-* enumerates, but no driver module is loaded (as of march 2022)
+* enumerates, but no driver module is loaded (as of march 2022; linux kernel v5.14.9)
 
 ~~~
 usb 1-1.2: new high-speed USB device number 81 using ehci-pci
